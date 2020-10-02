@@ -24,8 +24,13 @@ Second Time
 
 #################
 git init ไว้สร้าง git repository
+
 git status ตรวจสอบสถานะไฟล์ของ working diractory และ staging area
+
 git add เพิ่มไฟล์ working เข้าสู่ staging area
+
 git diff แสดงความแตกต่างของไฟล working directory และ staging area
+
 git commit เก็บประวัติการแก้ไขแบบถาวรจาก staging area ไว้ใน repository
+
 git log แสดงรายการที่ commit มาทั้งหมด
