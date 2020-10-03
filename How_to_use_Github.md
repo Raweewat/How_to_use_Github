@@ -1,5 +1,6 @@
 If address not correct:
     pwd  # To check add address that file
+    
     cd         #[file that want to open]
     cd ..      #[Exit address] 
     #Ex - cd Test[github]
