@@ -1,4 +1,5 @@
 If address not correct:
+
     pwd  # To check add address that file
     
     cd         #[file that want to open]
@@ -7,6 +8,8 @@ If address not correct:
     #To change - /Users/s92238/Desktop/Training/Test/
     to /Users/s92238/Desktop/Training/Test/Test[github]
     
+#######################
+
     git branch  # To check what is your branch rightnow
     git status  # To check status on working and staging
 
