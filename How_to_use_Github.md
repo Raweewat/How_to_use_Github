@@ -17,22 +17,23 @@ If address not correct:
 
 # Can't connect Github if u use SCB VPN or SCB fiwi
 
-### First Time
-# git init
-# git add [filename.xx] #Ex - git add README.md
-# git commit -m "[Comment]"
-## git config --global user.email "raweewat.c1997@gmail.com"
-## git branch -M main
-## git remote add origin https://github.com/Raweewat/xxx.git
-## git push -u origin main
+## First Time
+ git init
+ git add [filename.xx] #Ex - git add README.md
+ git commit -m "[Comment]"
+# git config --global user.email "raweewat.c1997@gmail.com"
+# git branch -M main
+# git remote add origin https://github.com/Raweewat/xxx.git
+# git push -u origin main
 
-###Second Time
-# git init
-# git add [filename.xx] #Ex - git add README.md  or git add .
-# git commit -m "[Comment]"
-# git push
+## Second Time
+ git init
+ git add [filename.xx] #Ex - git add README.md  or git add .
+ git commit -m "[Comment]"
+ git push
 
 #################
+
 git init ไว้สร้าง git repository
 
 git status ตรวจสอบสถานะไฟล์ของ working diractory และ staging area
