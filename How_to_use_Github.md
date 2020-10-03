@@ -34,6 +34,8 @@ git init ไว้สร้าง git repository
 
 git status ตรวจสอบสถานะไฟล์ของ working diractory และ staging area
 
+git branch ตรวจสอบว่าปัจจุบันอยู่ที่ branch ไหน
+
 git add เพิ่มไฟล์ working เข้าสู่ staging area
 
 git diff แสดงความแตกต่างของไฟล working directory และ staging area
