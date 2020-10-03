@@ -13,8 +13,11 @@ If address not correct:
     git branch  # To check what is your branch rightnow
     git status  # To check status on working and staging
 
+#######################
 
-First Time
+# Can't connect Github if u use SCB VPN or SCB fiwi
+
+### First Time
 # git init
 # git add [filename.xx] #Ex - git add README.md
 # git commit -m "[Comment]"
@@ -23,7 +26,7 @@ First Time
 ## git remote add origin https://github.com/Raweewat/xxx.git
 ## git push -u origin main
 
-Second Time
+###Second Time
 # git init
 # git add [filename.xx] #Ex - git add README.md  or git add .
 # git commit -m "[Comment]"
