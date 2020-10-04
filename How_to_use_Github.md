@@ -32,7 +32,7 @@ If address not correct:
 # git commit -m "[Comment]"
 # git push
 
-#################
+#################--
 
 git init ไว้สร้าง git repository
 
